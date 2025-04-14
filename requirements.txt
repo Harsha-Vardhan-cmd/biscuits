@@ -1,2 +1,6 @@
 httpx
 rich
+requests
+pyjwt
+prettytable
+termcolor
